@@ -2,7 +2,6 @@ import { content } from "@/lib/data"
 import { StickyScroll } from "./ui/StickyScrollReveal"
 import SparklesText from "./magicui/sparkles-text"
 import { BoltIcon, CommandIcon, DiffIcon, InfinityIcon, RocketIcon, UsersIcon } from "lucide-react"
-
 type Props = {}
 const AboutUs = (props: Props) => {
   return (
@@ -86,18 +85,12 @@ const AboutUs = (props: Props) => {
         <h3 className="text-lg font-bold dark:text-card-foreground">Commitment</h3>
       </div>
       <p className="text-muted-foreground text-gray-600">
-        We are dedicated to our clients' success, consistently going above and beyond to ensure satisfaction and long-term growth.
+        We are dedicated to our clients success, consistently going above and beyond to ensure satisfaction and long-term growth.
       </p>
     </div>
   </div>
     </div>
     </div>
-
-       
-      
-     
-      
-     
     </div>
   )
 }

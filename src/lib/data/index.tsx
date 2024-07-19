@@ -76,7 +76,6 @@ export const content = [
     },
 ];
 
-
 export const cards = [
   {
     description: "Founder, CEO & CTO",
@@ -87,7 +86,7 @@ export const cards = [
     content: () => {
       return (
         <p>
-          Leading our innovative team is Madhav, an accomplished IIT Kharagpur graduate with over 18 years of industry experience. His impressive career includes key roles at top-tier companies like Nvidia and HP, where he honed his hands-on coding skills and built a strong delivery track record. <br /> <br />  Madhav's enthusiasm for learning new technologies and mentoring teams underpins our dedication to excellence and innovation. Under his leadership, we are committed to delivering state-of-the-art solutions, building a strong technology team and fostering a culture of continuous growth and technological advancement.
+          Leading our innovative team is Madhav, an accomplished IIT Kharagpur graduate with over 18 years of industry experience. His impressive career includes key roles at top-tier companies like Nvidia and HP, where he honed his hands-on coding skills and built a strong delivery track record.  Madhavs enthusiasm for learning new technologies and mentoring teams underpins our dedication to excellence and innovation. Under his leadership, we are committed to delivering state-of-the-art solutions, building a strong technology team and fostering a culture of continuous growth and technological advancement.
         </p>
       );
     },
