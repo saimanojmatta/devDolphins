@@ -62,12 +62,9 @@ const  Hero=()=> {
           </p>
           <div className="flex justify-center items-center flex-wrap gap-x-12 gap-y-6 mt-6">
           <Image src={'/DigitalOcean.svg'}alt="digitalOCean" width={200} height={200}/>
-          <Image src={'/Vercel.svg'}alt="Vercel" width={150} height={150}/>
+          <Image src={'/openai.svg'}alt="openai" width={200} height={200}/>
           <Image src={'/Cloudflare.svg'}alt="CloudFflare" width={150} height={150}/>
           <Image src={'/Larvel.svg'}alt="Larvel" width={150} height={150}/>
-            
-            
-            
           </div>
         </div>
         
