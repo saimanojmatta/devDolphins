@@ -14,7 +14,7 @@ const Contact = (props: Props) => {
                     />
                 </div>
         </div>
-        <section className="grid grid-cols-1 gap-8 lg:grid-cols-3">
+        <section className=" my-12 grid grid-cols-1 gap-8 lg:grid-cols-3">
         {contactInfo.map((c) => (
           <div key={c.title} className="flex flex-col items-center gap-2">
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-primary/20">
