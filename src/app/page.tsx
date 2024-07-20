@@ -1,14 +1,12 @@
 import AboutUs from "@/components/AboutUs";
 import Contact from "@/components/Contact";
+import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import LeaderShip from "@/components/LeaderShip";
-
 import Services from "@/components/Services";
 
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import { navItem } from "@/lib/data";
-
-
 
 export default function Home() {
   return (
@@ -19,10 +17,7 @@ export default function Home() {
       <Services/>
      <LeaderShip/>
      <Contact/>
-    
-     
-
-
+     <Footer/>
     </main>
   );
 }
